@@ -3,7 +3,9 @@ codes=('practica1 ficheros_p1.tar.gz' \
 	'practica2 ficheros_p2.tar.gz' \
 	'practica3 ficheros_p3.tar.gz' \
 	'practica4 ficheros_p4.tar.gz' \
-	'practica5 ficheros_p5.tar.gz')
+	'practica4 ficheros_p5.tar.gz' \
+	'practica4 ficheros_p6.tar.gz' \
+	'practica5 ficheros_p7.tar.gz')
 
 codedir="../Codigos"
 targetcodes="${PWD}"
