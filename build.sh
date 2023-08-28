@@ -1,6 +1,7 @@
 #!/bin/bash
 documents=('../index.md index' \
 	'../entorno.md entorno' \
+	'../entorno-vscode-docker.md entorno-vscode-docker' \
 	'../make.md make' \
 	'../practica1.md practica1' \
     '../practica2.md practica2' \

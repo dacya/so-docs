@@ -1,5 +1,6 @@
 #!/bin/bash
-codes=('practica1 ficheros_p1.tar.gz' \
+codes=('entorno-vscode-docker entorno-vscode-docker.tar.gz' \
+        'practica1 ficheros_p1.tar.gz' \
 	'practica2 ficheros_p2.tar.gz' \
 	'practica3 ficheros_p3.tar.gz' \
 	'practica4 ficheros_p4.tar.gz' \
