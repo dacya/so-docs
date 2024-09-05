@@ -3,6 +3,7 @@ documents=('../index.md index' \
 	'../entorno.md entorno' \
 	'../entorno-vscode-docker.md entorno-vscode-docker' \
 	'../make.md make' \
+	'../linux_vm_guide.md linux_vm_guide' \
 	'../practica1.md practica1' \
     '../practica2.md practica2' \
     '../practica3.md practica3' \
