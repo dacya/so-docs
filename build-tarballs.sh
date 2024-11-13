@@ -6,7 +6,8 @@ codes=('entorno-vscode-docker entorno-vscode-docker.tar.gz' \
 	'practica4 ficheros_p4.tar.gz' \
 	'practica5 ficheros_p5.tar.gz' \
 	'practica6 ficheros_p6.tar.gz' \
-	'practica7 ficheros_p7.tar.gz')
+	'practica7 ficheros_p7.tar.gz' \
+	'practica7s ficheros_p7s.tar.gz')
 
 codedir="../Codigos"
 targetcodes="${PWD}"

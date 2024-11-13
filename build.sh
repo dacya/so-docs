@@ -10,7 +10,8 @@ documents=('../index.md index' \
     '../practica4.md practica4' \
     '../practica5.md practica5' \
     '../practica6.md practica6' \
-    '../practica7.md practica7')
+    '../practica7.md practica7' \
+    '../practica7s.md practica7s' )
 
 ndocs=${#documents[@]}
 
